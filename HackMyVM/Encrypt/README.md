@@ -1,6 +1,5 @@
 # Write-Up: Máquina Encrypt 
 
-* **Plataforma:** HackMyVM  
 * **Sistema Operativo:** Linux  
 * **Dificultad:** Fácil  
 
